@@ -5,5 +5,17 @@ This repository serves as the template for the third project in the Deep Catalys
 
 ## 2. Related Works
 
+## 3. The Proposed Method
 
+## 4. Implementation
+
+### 4.1. Dataset
+
+### 4.2. Model
+
+### 4.3. Configurations
+
+### 4.4. Train
+
+### 4.5. Evaluate
 
