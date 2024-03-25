@@ -22,7 +22,7 @@ This section delves into the practical aspects of the project's implementation.
 
 ### 4.1. Dataset
 Under this subsection, you'll find information about the dataset used for the medical image segmentation task. It includes details about the dataset source, size, composition, preprocessing, and loading applied to it.
-[Dataset](https://drive.google.com/file/d/1-2ggesSU3agSBKpH-9siKyyCYfbo3Ixm/view?usp=sharing)
+[Dataset](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/data)
 
 ### 4.2. Model
 In this subsection, the architecture and specifics of the deep learning model employed for the segmentation task are presented. It describes the model's layers, components, libraries, and any modifications made to it.
